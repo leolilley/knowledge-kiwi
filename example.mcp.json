@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "knowledge-kiwi": {
+      "command": "/home/leo/projects/knowledge-kiwi-v2/.venv/bin/knowledge-kiwi",
+      "cwd": "/home/leo/projects/knowledge-kiwi-v2",
+      "env": {
+			"SUPABASE_URL": "https://your-project.supabase.co",
+			"SUPABASE_SECRET_KEY": "your-secret-key",
+			"SUPABASE_ANON_KEY": "your-anon-key"
+		}
+    }
+  }
+}
+

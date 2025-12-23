@@ -1,0 +1,1 @@
+"""Knowledge Kiwi MCP package."""
